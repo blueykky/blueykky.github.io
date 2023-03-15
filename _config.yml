@@ -22,9 +22,9 @@ author: 我 me
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.baidu.com/"
-  Author's home: "https://www.vercel.com"
+    - Github: "https://github.com"
+    - Baidu: "https://www.baidu.com/"
+  Vercel web: "https://www.vercel.com"
 
 ################
 # --- Logo --- #
